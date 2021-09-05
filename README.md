@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iam-monu
 - 👀 I’m interested in WebDevlopment, Data Science
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning Django and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/monu-yadav-63242418b/
 
